@@ -16,7 +16,7 @@ function tambahOperator(operatorTambahan) {
 
 function hasil() {
     // Mengabaikan perhitungan dan langsung menampilkan "I Love You"
-    document.getElementById('layar').value = 'I Love You ANGEL HEHE';
+    document.getElementById('layar').value = ' I Love You ';
     // Reset angka dan operator untuk penggunaan selanjutnya
     angka = '';
     operator = '';
